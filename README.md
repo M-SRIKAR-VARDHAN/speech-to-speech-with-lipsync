@@ -17,7 +17,9 @@ This project is my attempt at building an **end-to-end speech-to-speech translat
 The system translates English speech into Telugu (or other languages), **preserves the speaker’s voice**, and **synchronizes lip movements** for a natural dubbed video.  
 
 I’ll walk you through the idea, implementation, challenges, and how to run it yourself.  
-If you like this project, please ⭐ star the repo and give credit 🙏.  
+If you like this project, please ⭐ star the repo and give credit 🙏. 
+
+you can read my medium blog about this [project](https://medium.com/@srikarvardhan2005/speech-to-speech-translation-with-lip-sync-425d8bb74530)
 
 ---
 
