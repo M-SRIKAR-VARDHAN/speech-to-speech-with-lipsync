@@ -126,6 +126,7 @@ Click on the images below to watch the full videos hosted on Google Drive.
 git clone [https://github.com/M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync.git](https://github.com/M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync.git)
 cd speech-to-speech-with-lipsync
 ```
+---
 
 ### 2\. Create a Python Environment
 
@@ -211,8 +212,8 @@ python lip.py --input_video dubbed_test.mp4 --audio translated_audio.wav --outpu
   - **📧 [Email](mailto:srikarvardhan2005@gmail.com)**
   - **💻 [GitHub](https://github.com/M-SRIKAR-VARDHAN)**
   - **🔗 [LinkedIn](https://www.linkedin.com/in/srikar-vardhan/)**
-  - **📚 [Google Scholar](https://scholar.google.com/citations?user=3X9GIJ8AAAAJ&hl=en)** `(<- Add your link)`
-  - **📄 [Resume](https://drive.google.com/file/d/1TKS_ZcytGK2MEh5jNeRXatgfw2FPMYoA/view?usp=sharing)** `(<- Add your link)`
+  - **📚 [Google Scholar](https://scholar.google.com/citations?user=3X9GIJ8AAAAJ&hl=en)** 
+  - **📄 [Resume](https://drive.google.com/file/d/1TKS_ZcytGK2MEh5jNeRXatgfw2FPMYoA/view?usp=sharing)** 
 
 <!-- end list -->
 
