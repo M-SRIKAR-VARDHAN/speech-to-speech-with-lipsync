@@ -1,0 +1,31 @@
+{
+  "add_blank": true,
+  "added_tokens_decoder": {
+    "0": {
+      "content": "త",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "65": {
+      "content": "<unk>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "clean_up_tokenization_spaces": true,
+  "extra_special_tokens": {},
+  "is_uroman": false,
+  "language": "tel",
+  "model_max_length": 1000000000000000019884624838656,
+  "normalize": true,
+  "pad_token": "త",
+  "phonemize": false,
+  "tokenizer_class": "VitsTokenizer",
+  "unk_token": "<unk>"
+}

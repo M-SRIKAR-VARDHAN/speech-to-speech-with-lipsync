@@ -1,0 +1,30 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large audio/video files
+*.wav
+*.mp3
+*.mp4
+*.avi
+
+# Ignore model checkpoints and weights
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.index
+
+# Keep only lightweight reference model
+!Advanced-RVC-Inference/weights/modi.pth
+
+# Ignore logs and results
+*.log
+*.txt
+result.*
+trace_log.*
+
+# Ignore temp folders
+temp/
+output/

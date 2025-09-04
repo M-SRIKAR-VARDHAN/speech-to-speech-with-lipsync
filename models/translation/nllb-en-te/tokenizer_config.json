@@ -1,0 +1,1879 @@
+{
+  "added_tokens_decoder": {
+    "0": {
+      "content": "<s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "1": {
+      "content": "<pad>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "2": {
+      "content": "</s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "3": {
+      "content": "<unk>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256001": {
+      "content": "ace_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256002": {
+      "content": "ace_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256003": {
+      "content": "acm_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256004": {
+      "content": "acq_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256005": {
+      "content": "aeb_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256006": {
+      "content": "afr_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256007": {
+      "content": "ajp_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256008": {
+      "content": "aka_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256009": {
+      "content": "amh_Ethi",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256010": {
+      "content": "apc_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256011": {
+      "content": "arb_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256012": {
+      "content": "ars_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256013": {
+      "content": "ary_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256014": {
+      "content": "arz_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256015": {
+      "content": "asm_Beng",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256016": {
+      "content": "ast_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256017": {
+      "content": "awa_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256018": {
+      "content": "ayr_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256019": {
+      "content": "azb_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256020": {
+      "content": "azj_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256021": {
+      "content": "bak_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256022": {
+      "content": "bam_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256023": {
+      "content": "ban_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256024": {
+      "content": "bel_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256025": {
+      "content": "bem_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256026": {
+      "content": "ben_Beng",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256027": {
+      "content": "bho_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256028": {
+      "content": "bjn_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256029": {
+      "content": "bjn_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256030": {
+      "content": "bod_Tibt",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256031": {
+      "content": "bos_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256032": {
+      "content": "bug_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256033": {
+      "content": "bul_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256034": {
+      "content": "cat_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256035": {
+      "content": "ceb_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256036": {
+      "content": "ces_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256037": {
+      "content": "cjk_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256038": {
+      "content": "ckb_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256039": {
+      "content": "crh_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256040": {
+      "content": "cym_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256041": {
+      "content": "dan_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256042": {
+      "content": "deu_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256043": {
+      "content": "dik_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256044": {
+      "content": "dyu_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256045": {
+      "content": "dzo_Tibt",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256046": {
+      "content": "ell_Grek",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256047": {
+      "content": "eng_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256048": {
+      "content": "epo_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256049": {
+      "content": "est_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256050": {
+      "content": "eus_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256051": {
+      "content": "ewe_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256052": {
+      "content": "fao_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256053": {
+      "content": "pes_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256054": {
+      "content": "fij_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256055": {
+      "content": "fin_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256056": {
+      "content": "fon_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256057": {
+      "content": "fra_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256058": {
+      "content": "fur_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256059": {
+      "content": "fuv_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256060": {
+      "content": "gla_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256061": {
+      "content": "gle_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256062": {
+      "content": "glg_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256063": {
+      "content": "grn_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256064": {
+      "content": "guj_Gujr",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256065": {
+      "content": "hat_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256066": {
+      "content": "hau_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256067": {
+      "content": "heb_Hebr",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256068": {
+      "content": "hin_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256069": {
+      "content": "hne_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256070": {
+      "content": "hrv_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256071": {
+      "content": "hun_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256072": {
+      "content": "hye_Armn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256073": {
+      "content": "ibo_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256074": {
+      "content": "ilo_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256075": {
+      "content": "ind_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256076": {
+      "content": "isl_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256077": {
+      "content": "ita_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256078": {
+      "content": "jav_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256079": {
+      "content": "jpn_Jpan",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256080": {
+      "content": "kab_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256081": {
+      "content": "kac_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256082": {
+      "content": "kam_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256083": {
+      "content": "kan_Knda",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256084": {
+      "content": "kas_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256085": {
+      "content": "kas_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256086": {
+      "content": "kat_Geor",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256087": {
+      "content": "knc_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256088": {
+      "content": "knc_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256089": {
+      "content": "kaz_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256090": {
+      "content": "kbp_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256091": {
+      "content": "kea_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256092": {
+      "content": "khm_Khmr",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256093": {
+      "content": "kik_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256094": {
+      "content": "kin_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256095": {
+      "content": "kir_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256096": {
+      "content": "kmb_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256097": {
+      "content": "kon_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256098": {
+      "content": "kor_Hang",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256099": {
+      "content": "kmr_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256100": {
+      "content": "lao_Laoo",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256101": {
+      "content": "lvs_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256102": {
+      "content": "lij_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256103": {
+      "content": "lim_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256104": {
+      "content": "lin_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256105": {
+      "content": "lit_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256106": {
+      "content": "lmo_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256107": {
+      "content": "ltg_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256108": {
+      "content": "ltz_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256109": {
+      "content": "lua_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256110": {
+      "content": "lug_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256111": {
+      "content": "luo_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256112": {
+      "content": "lus_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256113": {
+      "content": "mag_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256114": {
+      "content": "mai_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256115": {
+      "content": "mal_Mlym",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256116": {
+      "content": "mar_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256117": {
+      "content": "min_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256118": {
+      "content": "mkd_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256119": {
+      "content": "plt_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256120": {
+      "content": "mlt_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256121": {
+      "content": "mni_Beng",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256122": {
+      "content": "khk_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256123": {
+      "content": "mos_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256124": {
+      "content": "mri_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256125": {
+      "content": "zsm_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256126": {
+      "content": "mya_Mymr",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256127": {
+      "content": "nld_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256128": {
+      "content": "nno_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256129": {
+      "content": "nob_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256130": {
+      "content": "npi_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256131": {
+      "content": "nso_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256132": {
+      "content": "nus_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256133": {
+      "content": "nya_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256134": {
+      "content": "oci_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256135": {
+      "content": "gaz_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256136": {
+      "content": "ory_Orya",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256137": {
+      "content": "pag_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256138": {
+      "content": "pan_Guru",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256139": {
+      "content": "pap_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256140": {
+      "content": "pol_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256141": {
+      "content": "por_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256142": {
+      "content": "prs_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256143": {
+      "content": "pbt_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256144": {
+      "content": "quy_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256145": {
+      "content": "ron_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256146": {
+      "content": "run_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256147": {
+      "content": "rus_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256148": {
+      "content": "sag_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256149": {
+      "content": "san_Deva",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256150": {
+      "content": "sat_Beng",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256151": {
+      "content": "scn_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256152": {
+      "content": "shn_Mymr",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256153": {
+      "content": "sin_Sinh",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256154": {
+      "content": "slk_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256155": {
+      "content": "slv_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256156": {
+      "content": "smo_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256157": {
+      "content": "sna_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256158": {
+      "content": "snd_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256159": {
+      "content": "som_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256160": {
+      "content": "sot_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256161": {
+      "content": "spa_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256162": {
+      "content": "als_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256163": {
+      "content": "srd_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256164": {
+      "content": "srp_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256165": {
+      "content": "ssw_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256166": {
+      "content": "sun_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256167": {
+      "content": "swe_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256168": {
+      "content": "swh_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256169": {
+      "content": "szl_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256170": {
+      "content": "tam_Taml",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256171": {
+      "content": "tat_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256172": {
+      "content": "tel_Telu",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256173": {
+      "content": "tgk_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256174": {
+      "content": "tgl_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256175": {
+      "content": "tha_Thai",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256176": {
+      "content": "tir_Ethi",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256177": {
+      "content": "taq_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256178": {
+      "content": "taq_Tfng",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256179": {
+      "content": "tpi_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256180": {
+      "content": "tsn_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256181": {
+      "content": "tso_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256182": {
+      "content": "tuk_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256183": {
+      "content": "tum_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256184": {
+      "content": "tur_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256185": {
+      "content": "twi_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256186": {
+      "content": "tzm_Tfng",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256187": {
+      "content": "uig_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256188": {
+      "content": "ukr_Cyrl",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256189": {
+      "content": "umb_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256190": {
+      "content": "urd_Arab",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256191": {
+      "content": "uzn_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256192": {
+      "content": "vec_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256193": {
+      "content": "vie_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256194": {
+      "content": "war_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256195": {
+      "content": "wol_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256196": {
+      "content": "xho_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256197": {
+      "content": "ydd_Hebr",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256198": {
+      "content": "yor_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256199": {
+      "content": "yue_Hant",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256200": {
+      "content": "zho_Hans",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256201": {
+      "content": "zho_Hant",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256202": {
+      "content": "zul_Latn",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "256203": {
+      "content": "<mask>",
+      "lstrip": true,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "additional_special_tokens": [
+    "ace_Arab",
+    "ace_Latn",
+    "acm_Arab",
+    "acq_Arab",
+    "aeb_Arab",
+    "afr_Latn",
+    "ajp_Arab",
+    "aka_Latn",
+    "amh_Ethi",
+    "apc_Arab",
+    "arb_Arab",
+    "ars_Arab",
+    "ary_Arab",
+    "arz_Arab",
+    "asm_Beng",
+    "ast_Latn",
+    "awa_Deva",
+    "ayr_Latn",
+    "azb_Arab",
+    "azj_Latn",
+    "bak_Cyrl",
+    "bam_Latn",
+    "ban_Latn",
+    "bel_Cyrl",
+    "bem_Latn",
+    "ben_Beng",
+    "bho_Deva",
+    "bjn_Arab",
+    "bjn_Latn",
+    "bod_Tibt",
+    "bos_Latn",
+    "bug_Latn",
+    "bul_Cyrl",
+    "cat_Latn",
+    "ceb_Latn",
+    "ces_Latn",
+    "cjk_Latn",
+    "ckb_Arab",
+    "crh_Latn",
+    "cym_Latn",
+    "dan_Latn",
+    "deu_Latn",
+    "dik_Latn",
+    "dyu_Latn",
+    "dzo_Tibt",
+    "ell_Grek",
+    "eng_Latn",
+    "epo_Latn",
+    "est_Latn",
+    "eus_Latn",
+    "ewe_Latn",
+    "fao_Latn",
+    "pes_Arab",
+    "fij_Latn",
+    "fin_Latn",
+    "fon_Latn",
+    "fra_Latn",
+    "fur_Latn",
+    "fuv_Latn",
+    "gla_Latn",
+    "gle_Latn",
+    "glg_Latn",
+    "grn_Latn",
+    "guj_Gujr",
+    "hat_Latn",
+    "hau_Latn",
+    "heb_Hebr",
+    "hin_Deva",
+    "hne_Deva",
+    "hrv_Latn",
+    "hun_Latn",
+    "hye_Armn",
+    "ibo_Latn",
+    "ilo_Latn",
+    "ind_Latn",
+    "isl_Latn",
+    "ita_Latn",
+    "jav_Latn",
+    "jpn_Jpan",
+    "kab_Latn",
+    "kac_Latn",
+    "kam_Latn",
+    "kan_Knda",
+    "kas_Arab",
+    "kas_Deva",
+    "kat_Geor",
+    "knc_Arab",
+    "knc_Latn",
+    "kaz_Cyrl",
+    "kbp_Latn",
+    "kea_Latn",
+    "khm_Khmr",
+    "kik_Latn",
+    "kin_Latn",
+    "kir_Cyrl",
+    "kmb_Latn",
+    "kon_Latn",
+    "kor_Hang",
+    "kmr_Latn",
+    "lao_Laoo",
+    "lvs_Latn",
+    "lij_Latn",
+    "lim_Latn",
+    "lin_Latn",
+    "lit_Latn",
+    "lmo_Latn",
+    "ltg_Latn",
+    "ltz_Latn",
+    "lua_Latn",
+    "lug_Latn",
+    "luo_Latn",
+    "lus_Latn",
+    "mag_Deva",
+    "mai_Deva",
+    "mal_Mlym",
+    "mar_Deva",
+    "min_Latn",
+    "mkd_Cyrl",
+    "plt_Latn",
+    "mlt_Latn",
+    "mni_Beng",
+    "khk_Cyrl",
+    "mos_Latn",
+    "mri_Latn",
+    "zsm_Latn",
+    "mya_Mymr",
+    "nld_Latn",
+    "nno_Latn",
+    "nob_Latn",
+    "npi_Deva",
+    "nso_Latn",
+    "nus_Latn",
+    "nya_Latn",
+    "oci_Latn",
+    "gaz_Latn",
+    "ory_Orya",
+    "pag_Latn",
+    "pan_Guru",
+    "pap_Latn",
+    "pol_Latn",
+    "por_Latn",
+    "prs_Arab",
+    "pbt_Arab",
+    "quy_Latn",
+    "ron_Latn",
+    "run_Latn",
+    "rus_Cyrl",
+    "sag_Latn",
+    "san_Deva",
+    "sat_Beng",
+    "scn_Latn",
+    "shn_Mymr",
+    "sin_Sinh",
+    "slk_Latn",
+    "slv_Latn",
+    "smo_Latn",
+    "sna_Latn",
+    "snd_Arab",
+    "som_Latn",
+    "sot_Latn",
+    "spa_Latn",
+    "als_Latn",
+    "srd_Latn",
+    "srp_Cyrl",
+    "ssw_Latn",
+    "sun_Latn",
+    "swe_Latn",
+    "swh_Latn",
+    "szl_Latn",
+    "tam_Taml",
+    "tat_Cyrl",
+    "tel_Telu",
+    "tgk_Cyrl",
+    "tgl_Latn",
+    "tha_Thai",
+    "tir_Ethi",
+    "taq_Latn",
+    "taq_Tfng",
+    "tpi_Latn",
+    "tsn_Latn",
+    "tso_Latn",
+    "tuk_Latn",
+    "tum_Latn",
+    "tur_Latn",
+    "twi_Latn",
+    "tzm_Tfng",
+    "uig_Arab",
+    "ukr_Cyrl",
+    "umb_Latn",
+    "urd_Arab",
+    "uzn_Latn",
+    "vec_Latn",
+    "vie_Latn",
+    "war_Latn",
+    "wol_Latn",
+    "xho_Latn",
+    "ydd_Hebr",
+    "yor_Latn",
+    "yue_Hant",
+    "zho_Hans",
+    "zho_Hant",
+    "zul_Latn"
+  ],
+  "bos_token": "<s>",
+  "clean_up_tokenization_spaces": false,
+  "cls_token": "<s>",
+  "eos_token": "</s>",
+  "extra_special_tokens": {},
+  "legacy_behaviour": false,
+  "mask_token": "<mask>",
+  "model_max_length": 1024,
+  "pad_token": "<pad>",
+  "sep_token": "</s>",
+  "sp_model_kwargs": {},
+  "src_lang": "eng_Latn",
+  "tgt_lang": null,
+  "tokenizer_class": "NllbTokenizer",
+  "unk_token": "<unk>"
+}
