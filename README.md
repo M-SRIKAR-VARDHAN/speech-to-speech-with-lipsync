@@ -4,7 +4,7 @@
   <a href="https://github.com/M-SRIKAR-VARDHAN">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="[https://www.linkedin.com/in/srikar-vardhan-m/](https://www.linkedin.com/in/srikar-vardhan/)">
+  <a href="https://www.linkedin.com/in/srikar-vardhan/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:srikarvardhan2005@gmail.com">
