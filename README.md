@@ -117,8 +117,8 @@ Click on the images below to watch the full videos hosted on Google Drive.
     │   └── wav2lip.py
     ├── preprocess.py
     └── requirements.txt
-
------
+```
+---
 
 ## ⚙️ Setup Instructions
 
